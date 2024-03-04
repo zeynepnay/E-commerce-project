@@ -1,0 +1,44 @@
+.header{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.frame1{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.frame2{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.btn{
+margin-top: 30px;
+margin-left: 330px;
+}
+
+.frame3{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.frame4{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.frame5{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.frame6{
+    margin-top: 90px;
+    margin-left: 200px;
+}
+
+.frame7{
+    margin-top: 30px;
+}
